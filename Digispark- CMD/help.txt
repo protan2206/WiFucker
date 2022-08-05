@@ -1,0 +1,4 @@
+you should replace the "SSID"( line-28 , col-56 ) into your target WIFI SSID . 
+
+if you get any problem 
+    email : protanhalder2021@gmial.com
